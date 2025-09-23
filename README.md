@@ -38,9 +38,9 @@ A passionate programmer who loves taking on coding challenges, learning new tech
 👨‍💻 Enthusiastic coder who explores multiple programming languages
 🔥 Passionate about problem-solving, full-stack development & open-source
 ⚡ Always eager to take on new challenges & push my limits
-- 👀 I’m interested in android building
-- 🌱 I’m currently learning new things 
-● Love to play around with Android Devices.
+👀 I’m interested in android building.
+🌱 I’m currently learning new things. 
+❤️Love to play around with Android Devices.
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2d4emE3bHQ2MDRyMHp6ZG1wNnI2ZWxvc3p3ZWhnMHkzdjdtNzVyaCZlcD12MV8zNjY3ZjEwNGw2Z2hiOXE1YjgzZHVqY3J5Ym44d2pwaGdqa3I4MGpzYjVna3dqNGRqayZjdD1n/UVG0BN8TOMKkPOJS6e/giphy.gif" width="300" />
