@@ -1,3 +1,4 @@
+<h1 align="center"><img src="[https://github.com/kumarshailesh-code/kumarshailesh-code/blob/main/intro.png]"  width="400" alt="ganesh"><br>
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&pause=1000&color=1EA61A&background=75757500&center=true&vCenter=true&width=435&lines=Namaste+%F0%9F%99%8F;Welcome+to+my+GitHub;Glad+to+see+you+here;I%E2%80%99m+Shailesh+%E2%80%94+a+passionate+coder+%F0%9F%92%BB;Let's+build+something+amazing+%F0%9F%92%BB" alt="Typing SVG" />
@@ -34,7 +35,8 @@ A passionate programmer who loves taking on coding challenges, learning new tech
 </div>
 
 
-## 💻 About Me
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">  :💻 About Me:
+
 👨‍💻 Enthusiastic coder who explores multiple programming languages.
 
 🔥 Passionate about problem-solving, full-stack development & open-source.
@@ -54,7 +56,8 @@ A passionate programmer who loves taking on coding challenges, learning new tech
 
 
 ---
-#### 🧠 Tech Stack & Skills
+## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="40"> 🧠 Tech Stack & Skills:
+
 
 
 ### 💻 Programming language 
@@ -107,6 +110,14 @@ Creating responsive UIs and powerful backends using Node.js.
 
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white)
+![Android](https://img.shields.io/badge/AOSP--ROM--Dev-3DDC84.svg?style=for-the-badge&logo=android&logoColor=white)
+![AWS-EC2](https://img.shields.io/badge/AWS--EC2-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-%23323330.svg?style=for-the-badge&logo=linux&logoColor=yellow) ![Ubuntu](https://img.shields.io/badge/Ubuntu-%23E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white)
+![OS](https://img.shields.io/badge/OS-%23313131.svg?style=for-the-badge&logo=operating-system&logoColor=white)
+<br>
+![Hardware](https://img.shields.io/badge/Hardware-%230071C5.svg?style=for-the-badge&logo=hardware&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
 
 -----
 
