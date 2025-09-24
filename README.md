@@ -64,7 +64,7 @@ A passionate programmer who loves taking on coding challenges, learning new tech
 
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2d4emE3bHQ2MDRyMHp6ZG1wNnI2ZWxvc3p3ZWhnMHkzdjdtNzVyaCZlcD12MV8zNjY3ZjEwNGw2Z2hiOXE1YjgzZHVqY3J5Ym44d2pwaGdqa3I4MGpzYjVna3dqNGRqayZjdD1n/UVG0BN8TOMKkPOJS6e/giphy.gif" width="300" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2d4emE3bHQ2MDRyMHp6ZG1wNnI2ZWxvc3p3ZWhnMHkzdjdtNzVyaCZlcD12MV8zNjY3ZjEwNGw2Z2hiOXE1YjgzZHVqY3J5Ym44d2pwaGdqa3I4MGpzYjVna3dqNGRqayZjdD1n/UVG0BN8TOMKkPOJS6e/giphy.gif" width="100" />
 </p>
 
 
@@ -161,14 +161,14 @@ I use AI tools smartly to speed up development, but I always dive deep into lear
 <table width="100%">
   <tr>
     <td align="left" width="33.33%">
-      <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="280" />
+      <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="180" />
     </td>
     <td width="20%">
       <!-- Center Gap -->
       <div style="height: 100px;"></div>
     </td>
     <td align="right" width="33.33%">
-      <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="280" />
+      <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="180" />
     </td>
   </tr>
 </table>
