@@ -150,6 +150,14 @@ I use AI tools smartly to speed up development, but I always dive deep into lear
 ```
 (Iron Man suit still under construction...)😅
 
+### ✨ Interests & Fun
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Mono&pause=800&color=10b981&center=true&vCenter=true&width=500&lines=Tech+Nerd;Movie+lover+%F0%9F%8E%B2;UI%2FUX+Lover+%F0%9F%92%BC;" style="max-width:100%; height:auto;" />
+</p>
+
+---
+
 ## 💬 !
 
 
