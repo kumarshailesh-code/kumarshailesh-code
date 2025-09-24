@@ -15,8 +15,7 @@
   <img src="https://www.ahmetyardimci.com/wp-content/uploads/2024/08/helloworld_1.gif" alt="Animated Dev" style="max-width:100%; height:auto; width:60%;" />
 </p>
 
-# Hi there 👋 
-🚀Shailesh Kumar | Passionate Coder from India 🇮🇳
+🚀Shailesh Kumar | Coder from India 🇮🇳
 
 A passionate programmer who loves taking on coding challenges, learning new technologies, and building innovative projects.  
 
@@ -77,8 +76,11 @@ A passionate programmer who loves taking on coding challenges, learning new tech
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2b%2b&logoColor=white)
 <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/raspberrypi-icon.svg" alt="icon" width="65" height="65" />
 
 ---
 
@@ -130,8 +132,7 @@ Creating responsive UIs and powerful backends using Node.js.
 ![AWS-EC2](https://img.shields.io/badge/AWS--EC2-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-%23323330.svg?style=for-the-badge&logo=linux&logoColor=yellow) ![Ubuntu](https://img.shields.io/badge/Ubuntu-%23E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![OS](https://img.shields.io/badge/OS-%23313131.svg?style=for-the-badge&logo=operating-system&logoColor=white)
-<br>
-![Hardware](https://img.shields.io/badge/Hardware-%230071C5.svg?style=for-the-badge&logo=hardware&logoColor=white)
+<br>![Hardware](https://img.shields.io/badge/Hardware-%230071C5.svg?style=for-the-badge&logo=hardware&logoColor=white)
  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
 
 
@@ -211,7 +212,8 @@ Let's **build, innovate, and code something amazing!** 🚀
 </div>
 
 
-😂 Code Life: Fun Edition
+😂 Code Life:
+Fun Edition
  Eats bugs for breakfast (sometimes for dinner too)
 
  May accidentally refactor your mood 😆
