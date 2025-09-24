@@ -49,6 +49,18 @@ A passionate programmer who loves taking on coding challenges, learning new tech
 
 ❤️Love to play around with Android Devices.
 
+💻 Writes more code than sleep—may debug in dreams
+
+🧑‍💻 infinite loops
+
+🤖 Android ROM tinkering level: Slightly over 9000
+
+🥇 Certified “Hello World!” Button Masher
+
+🚦 Sometimes my code runs. Sometimes it runs away.
+
+🌱 Currently growing… like npm install progress bars!
+
 
 
 <p align="center">
@@ -135,12 +147,13 @@ I use AI tools smartly to speed up development, but I always dive deep into lear
 ## 🎯 Current Focus
 
 ```text
-🖥 Frontend Development    █████████░░   90%
-⚙️ Backend Development     ████████░░░   80%
+🖥 Frontend Development    ███░░░░░░░░   30%
+⚙️ Backend Development    █░░░░░░░░░░   20%
 ☁️ Cloud & DevOps         ███████░░░░   70%
 🤖 Machine Learning       ████░░░░░░░   40%
+👨🏻‍💻 Android Development    ██████████░   90%
 ```
-
+(Iron Man suit still under construction...)😅
 
 ## 💬 !
 
@@ -191,17 +204,24 @@ Let's **build, innovate, and code something amazing!** 🚀
 </p>
 
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="300" />
-</p>
-
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="250">
+  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="250" />
+  <img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="250" />
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/80728820-e06b-4f96-9c9e-9df46f0cc0a5" width="250" />
 </div>
 
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/80728820-e06b-4f96-9c9e-9df46f0cc0a5" >
-<br><br>
 
+😂 Code Life: Fun Edition
+ Eats bugs for breakfast (sometimes for dinner too)
+
+ May accidentally refactor your mood 😆
+
+ “Works on my machine!” – Legendary last words
+
+ Why did the computer go to therapy? Too many unresolved issues.
+
+“Let’s code, crash, laugh, repeat… then maybe deploy!”
+— Shailesh (probably during a caffeine rush)😂😂
 
 
 
