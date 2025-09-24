@@ -65,10 +65,9 @@ A passionate programmer who loves taking on coding challenges, learning new tech
 
 ### 💻 Programming language 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JS](https://techstack-generator.vercel.app/js-icon.svg?style=flat&logo=javascript&logoColor=black)
+<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2b%2b&logoColor=white)
-
 <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
 
 ---
@@ -78,7 +77,6 @@ A passionate programmer who loves taking on coding challenges, learning new tech
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![Material UI](https://img.shields.io/badge/MUI-007FFF?style=flat&logo=mui&logoColor=white)
-
 <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" height="65" />
 
 
@@ -102,7 +100,7 @@ Creating responsive UIs and powerful backends using Node.js.
 
 ### 🗃️ Databases
 
-![MySQL](https://techstack-generator.vercel.app/mysql-icon.svg?style=flat&logo=mysql&logoColor=white)
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
 
 
 ### ☁️ DevOps & Cloud
@@ -124,7 +122,7 @@ Creating responsive UIs and powerful backends using Node.js.
 ![OS](https://img.shields.io/badge/OS-%23313131.svg?style=for-the-badge&logo=operating-system&logoColor=white)
 <br>
 ![Hardware](https://img.shields.io/badge/Hardware-%230071C5.svg?style=for-the-badge&logo=hardware&logoColor=white)
-![Git](https://techstack-generator.vercel.app/github-icon.svg?style=for-the-badge&logo=git&logoColor=white)
+ <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
 
 
 -----
