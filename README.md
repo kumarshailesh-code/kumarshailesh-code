@@ -106,7 +106,7 @@ Creating responsive UIs and powerful backends using Node.js.
 ### ☁️ DevOps & Cloud
 
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
-![Docker](https://techstack-generator.vercel.app/docker-icon.svg?style=flat&logo=docker&logoColor=white)
+<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="55" />
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 
