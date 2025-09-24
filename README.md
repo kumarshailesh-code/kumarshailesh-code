@@ -34,7 +34,9 @@
 </div>
 
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">  :💻 About Me:
+<details>
+  <summary> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">  :💻 About Me: </summary>
+  <br>
 
 👨‍💻 Enthusiastic coder who explores multiple programming languages.
 
@@ -60,17 +62,13 @@
 
 🌱 Currently growing… like npm install progress bars!
 
-
-
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2d4emE3bHQ2MDRyMHp6ZG1wNnI2ZWxvc3p3ZWhnMHkzdjdtNzVyaCZlcD12MV8zNjY3ZjEwNGw2Z2hiOXE1YjgzZHVqY3J5Ym44d2pwaGdqa3I4MGpzYjVna3dqNGRqayZjdD1n/UVG0BN8TOMKkPOJS6e/giphy.gif" width="100" />
-</p>
-
+</details>
 
 ---
-## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="40"> 🧠 Tech Stack & Skills:
 
-
+<details>
+  <summary> <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="40"> 🧠 Tech Stack & Skills: </summary>
+  <br>
 
 ### 💻 Programming language 
 
@@ -128,6 +126,12 @@ Creating responsive UIs and powerful backends using Node.js.
 ![OS](https://img.shields.io/badge/OS-%23313131.svg?style=for-the-badge&logo=operating-system&logoColor=white)
 <br>![Hardware](https://img.shields.io/badge/Hardware-%230071C5.svg?style=for-the-badge&logo=hardware&logoColor=white)
  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
+
+ <p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2d4emE3bHQ2MDRyMHp6ZG1wNnI2ZWxvc3p3ZWhnMHkzdjdtNzVyaCZlcD12MV8zNjY3ZjEwNGw2Z2hiOXE1YjgzZHVqY3J5Ym44d2pwaGdqa3I4MGpzYjVna3dqNGRqayZjdD1n/UVG0BN8TOMKkPOJS6e/giphy.gif" width="100" />
+</p>
+
+ </details>
 
 
 -----
@@ -198,6 +202,10 @@ Let's **build, innovate, and code something amazing!** 🚀
 
 
 <!-- Thanks For Visiting Section -->
+<details>
+  <summary> For Fun 😅 </summary>
+  <br>
+
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 <p align="center">
@@ -227,7 +235,7 @@ Fun Edition
 “Let’s code, crash, laugh, repeat… then maybe deploy!”
 — Shailesh (probably during a caffeine rush)😂😂
 
-
+</details>
 
 
 <!---
