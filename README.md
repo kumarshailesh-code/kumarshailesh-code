@@ -15,9 +15,9 @@
   <img src="https://www.ahmetyardimci.com/wp-content/uploads/2024/08/helloworld_1.gif" alt="Animated Dev" style="max-width:100%; height:auto; width:60%;" />
 </p>
 
-🚀Shailesh Kumar | Coder from India 🇮🇳
+## 🚀Shailesh Kumar | Coder from India 🇮🇳
 
-A passionate programmer who loves taking on coding challenges, learning new technologies, and building innovative projects.  
+## A passionate programmer who loves taking on coding challenges, learning new technologies, and building innovative projects.  
 
 
 <div align="center">
